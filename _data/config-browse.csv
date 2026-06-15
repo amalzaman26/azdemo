@@ -6,3 +6,4 @@ subject,,true
 location,,true,,,Location Depicted
 identifier,,,true,Identifier
 related_publication, Related Publications
+type,media,,,type of media
